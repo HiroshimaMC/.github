@@ -2,7 +2,7 @@
   <img src="../assets/label.png" height=200 />
 <p/>
 
-# 🌋 Hiroshima V3
+# 🌋 Hiroshima (Minecraft Bedrock Edition)
 
 Bienvenue sur le GitHub officiel de **Hiroshima V3**, un projet ambitieux autour d’un serveur Minecraft Bedrock Edition PvP Faction. Ce projet a pour but de proposer une expérience de jeu moderne, performante, et entièrement personnalisée — autant côté technique que gameplay.
 
